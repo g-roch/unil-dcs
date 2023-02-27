@@ -6,7 +6,7 @@
  - [Principes de Politique d'Entreprise](ppe-principles-pol-entreprise)
 
 ### Cours DCS obligatoire
- - [Compliance](compliance) [lundi mating]
+ - [Compliance](compliance) [lundi matin]
+ - [Traces numériques et investigations](tni-trace-num-investigations) [Lundi après-midi]
  - [Liberté de l'information et gouvernance de l'Internet](.)
- - [Traces numériques et investigations](tni-trace-num-investigations)
  - [Visualisation de données](visualisation-data)

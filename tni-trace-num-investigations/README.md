@@ -1,27 +1,12 @@
+# Traces numériques et investigations
 
-exa: orale 
-  1 question théorique + 1 question pratique-technique
+ - [Notes de cours](notes.md)
+ - [Fiche de cours](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=71606)
+ - [Moodle](https://moodle.unil.ch/course/view.php?id=26565)
 
-dernière séance: préparation exa
+## Examen
 
-## 2023-02-20
+Orale avec 1 question théorique et 1 question pratique/technique
 
-### Rappel
-#### science forensique
-ensemble principe sci. et méthode technique appliquée à la résolution de question en matière crim., civil, réglementaire
-#### criminalistique
-Concerne plus spécifiquement l'application des méthodes techniques destinées à mettre en valeur les traces en matière d'investigation criminelle
+La dernière séance de cours séra utilisé pour préparer l'examen
 
-## 02 _ scene de crime
-### Modèle de McKemmish
- - Identification
- - Préservation
- - Analyse
- - Présentation
-
-### Modele de ...
-
-### Survey
- - identifier les bon support de donnée pouvant être utiles
-
-### Preservation

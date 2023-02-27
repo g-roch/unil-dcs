@@ -49,4 +49,88 @@
 ### système de controle interne (SCI)
  -> À voir pour l'exa
 
-### 
+## 2023-02-21
+
+ -> 1er ligne identifié les risk
+ -> 2eme mettre en place des mesures de gestions des risques
+ -> 3eme vérifier les mesures mise en place 
+ -> 4eme vérie que les 3 lignes fonctionne bien
+
+
+p-ê à l'examen SCI
+
+```
+ +---------------------------------------------------------------+
+ | Conseil d'administration : - Chairman of                      |
+ |                            - Member of the board              |
+ +---------------------------------+-----------------------------+
+ | Director Générale               | Chairman of the audit board |
+ | CEO; CLO; CIO; CFO; CCO         |                             |
+ +------------------+--------------+-----------------------------+---------+
+ | ServiceDeskAgent | RSSI         | Internal Audit Director     | FINMA   |
+ | SalesManager     | DPO          |                             |         |
+ | CRM Manager      | RiskDirector |                             |         |
+ | AccountManager   |              |                             |         |
+ +------------------+--------------+-----------------------------+---------+
+```
+
+ CLO: Chief legal officer
+ CIO: Chief information officier
+ CFO: Chief financial officer
+ CCO: Chief compliance officer
+ DPO: Data privacy officer  -> Pas dans le DG -> Parce qu'il tappe dessus régulièrement
+
+## Module 2.1 - La gestion des risques pour les systèmes d'informations
+
+ DPO: 72h pour informer l'UE en cas de problème de sécu avec vol -> 24/7 
+
+### I. les gestion des risques pour les SI
+
+ À quoi ça correspond ? 
+  * Mise en place de mesure technique (Dispo, Confidentialité, ...)
+
+Les outils dans {II - V} (slides 3) -> Typique question d'examen
+### II. les gestion des risques - Standards
+ par les gouvernements pour les gouvernements
+
+ * AS/NZS 4360 (Risk management, 2004) -> norm
+ * NIST
+
+ Chaque pays a ses propres standards
+
+
+### III. les gestion des risques - Normes
+ comme standard, mais par le privé pour le privé ET AVEC CERTIFICATIONS POSSIBLE
+
+ISO - International Organization for Standardization
+ * Réseau d'institut nationnaux (1 vote / pays)
+ * 23k normes publiées
+ * Norme -> Pour un usage commun et répéter
+
+systeme de management -> question d'exa
+
+87 norme dans ISO 27'000
+**exa p-ê**
+27'005 -> gestion des risques de SI
+
+31'000 >-> risque management
+
+### IV. les gestion des risques - Référentiels
+best partice
+
+ - ITIL
+ - COBIT
+ - RISK IT
+
+### V. les gestion des risque - Méthodologies
+ processus d'analyse des risques
+
+citer 2-3 métho/norm/référenciel à l'exa
+ - NIST
+ - MEHARI [française]
+ - OCTAVE
+ - EBIOS
+
+on pourrait en créer une nous-même
+
+### VI. les gestion des risques - articulation des normes, référentiels et méthodes

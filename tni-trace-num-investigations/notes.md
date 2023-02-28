@@ -19,4 +19,9 @@ Concerne plus spécifiquement l'application des méthodes techniques destinées 
 ### Survey
  - identifier les bon support de donnée pouvant être utiles
 
-### Preservation
+### Preservatio
+
+## 2023-02-27
+
+Attention à récupérer l'heure des supports lorsqu'on récupère des informations sur une machine
+
